@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            body{
+                background-color: rgb(130, 212, 232);
+            }
+            .absorb-sun{
+                color: rgb(233, 245, 14);
+            }
+            .relax-on-sand{
+                color: rgb(45, 135, 31);
+                background-color: rgb(166, 136, 157);
+            }
+            #voleyball{
+                color: white;
+                
+            }
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        <p>
+            <strong>The Beach</strong>
+        </p>
+        <img src="https://www.kasandbox.org/programming-images/creatures/Hopper-Cool.png" alt="cool yellow dude with sunglasses">
+        <h3>There you can..</h3>
+        <ul style="background-color: blue">
+            <li class="absorb-sun">absorb the sun</li>
+            <li class="relax-on-sand">relax on the nice sand</li>
+            <li id="voleyball">play some voleyball</li>
+        </ul>
+    </body>
+</html>
